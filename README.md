@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-ceh&" alt="harshita-ceh" /></p>
 <!-- <div align="center"> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj57&theme=dark" alt="Dhiraj Magdum" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-ceh&theme=dark" alt="harshita-ceh" /></p>
   
  
 
