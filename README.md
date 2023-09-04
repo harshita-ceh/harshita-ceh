@@ -28,3 +28,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshita-ceh&show_icons=true&locale=en" alt="harshita-ceh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-ceh&" alt="harshita-ceh" /></p>
+<!-- <div align="center"> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj57&theme=dark" alt="Dhiraj Magdum" /></p>
+  
+ 
+
+<!-- My contribution graph : -->
+![Watch my contribution graph !](https://github.com/Dhiraj57/Dhiraj57/blob/output/github-contribution-grid-snake.svg)
+
+</div>
