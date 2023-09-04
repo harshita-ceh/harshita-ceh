@@ -30,8 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshita-ceh&theme=highcontrast" alt="harshita-ceh" /></p>
  
-
-<!-- My contribution graph : -->
-![Watch my contribution graph !](https://github.com/harshita-ceh/harshita-ceh/blob/output/github-contribution-grid-snake.svg)
-
 </div>
